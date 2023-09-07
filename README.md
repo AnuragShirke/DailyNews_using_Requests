@@ -22,7 +22,7 @@ Before running the application, you'll need to:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/news-article-viewer.git
+   git clone 
 
 
 
