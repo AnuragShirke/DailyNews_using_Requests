@@ -27,12 +27,8 @@ Before running the application, you'll need to:
 
 
 1.Open the main.py file in a text editor.
-
 2.Replace "ENTER_YOUR_OWN_API_KEY" with your actual News API key in the fetch_news function.
-# Replace "ENTER_YOUR_OWN_API_KEY" with your actual News API key
-api_key = "ENTER_YOUR_OWN_API_KEY"
-
-
+  api_key = "ENTER_YOUR_OWN_API_KEY"
 3.Save the main.py file.
 
 ## USAGE
